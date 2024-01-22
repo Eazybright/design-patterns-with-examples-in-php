@@ -1,0 +1,20 @@
+{
+    "name": "eazybright/design_patterns_php",
+    "description": "Design pattern examples in PHP",
+    "require": {
+        "php": ">=8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eazybright\\DesignPatternsPHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kolawole Ezekiel",
+            "email": "doneazy911@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
